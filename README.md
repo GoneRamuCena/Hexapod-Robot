@@ -73,6 +73,12 @@ The project also explores MIT Scratch as a block-based programming approach.
 ## Result
 Successfully developed a Hexapod Robot using an Arduino Mega and a Bluetooth module, demonstrating wireless robot control and basic robotics programming.
 
+Front view of Hexapod Robot
+
+![Hexapod-Robot](https://github.com/GoneRamuCena/Hexapod-Robot/blob/15d4545957cb854acde8e3593ec0d8a89a8e63f2/Project%20Details/Hexapod%20Robot%20top%20view.png)
+
+Side View of Hexapod Robot
+![Hexapod-Robot]()
 ## 🎥 Project Demo Video
 
 Click below to watch the project demonstration on LinkedIn!
