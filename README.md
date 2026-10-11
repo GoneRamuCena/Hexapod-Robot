@@ -92,3 +92,5 @@ https://www.linkedin.com/posts/gone-ramu-2155092b2_hexapod-robot-ugcPost-7498387
 - Servo Motor Control
 - MIT Scratch
 - Robotics
+
+**Note : For more project details go through the Project Details section and see the pdf**
