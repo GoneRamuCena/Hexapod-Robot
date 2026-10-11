@@ -77,7 +77,7 @@ Successfully developed a Hexapod Robot using an Arduino Mega and a Bluetooth mod
 
 ![Hexapod-Robot](https://github.com/GoneRamuCena/Hexapod-Robot/blob/15d4545957cb854acde8e3593ec0d8a89a8e63f2/Project%20Details/Hexapod%20Robot%20top%20view.png)
 
-**front View of Hexapod Robot**:
+**Front View of Hexapod Robot :**:
 
 ![Hexapod-Robot](https://github.com/GoneRamuCena/Hexapod-Robot/blob/9fdbec5163e7b28353f8cdae7821fd5e9ed1ed4c/Project%20Details/Hexapod%20Robot%20front%20view.png)
 
